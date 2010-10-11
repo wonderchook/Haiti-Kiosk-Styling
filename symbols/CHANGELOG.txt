@@ -1,0 +1,19 @@
+2010-06-02
+----------
+Update mine symbol, added abandoned mine.  Added Cave, Military Bunker, Grass, Hill, Quary, Scrub, Swamp.
+
+2010-05-25
+----------
+Added a small number of barrier icons (Bollard, Enterance, Gets, Lift Gate, Stile, Toll Booth)
+
+2010-04-28
+----------
+Added transport_parking_private (and variations)
+
+2010-02-14
+----------
+New layout and website
+
+2010-02-10
+----------
+Add extra options to produce png icons with glow
